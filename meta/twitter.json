@@ -20,6 +20,10 @@
     "en": {
       "name": "Twitter",
       "description": "Twitter glossary, containing Chinese translations of related terms such as celebrities and social media platforms."
+    },
+    "ja": {
+      "name": "Twitter",
+      "description": "Twitter 中国語の用語集です。著名人やソーシャルメディアプラットフォームに関する用語の中国語訳を収録しています。"
     }
   },
   "matches": [

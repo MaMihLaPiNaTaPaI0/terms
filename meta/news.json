@@ -20,6 +20,10 @@
     "en": {
       "name": "News Media Expert",
       "description": "Specialized in translating news media content, ensuring accurate and idiomatic translations for news articles, reports, and media-related content."
+    },
+    "ja": {
+      "name": "ニュースメディアエキスパート",
+      "description": "ニュースメディアコンテンツの翻訳を専門とし、ニュース記事、報道、メディア関連コンテンツに対して正確で自然な翻訳を提供します。"
     }
   }
 }
