@@ -20,6 +20,10 @@
     "en": {
       "name": "AO3",
       "description": "AO3 glossary, containing Chinese translations of related terms such as fanfiction, tags, ratings, and warnings."
+    },
+    "ko": {
+      "name": "AO3",
+      "description": "AO3 관련 용어집으로, 팬픽, 태그, 등급, 경고 등 관련 용어 번역을 포함합니다."
     }
   }
 }

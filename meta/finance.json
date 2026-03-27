@@ -20,6 +20,10 @@
     "en": {
       "name": "Finance",
       "description": "Finance glossary, containing Chinese translations of related terms such as investment, trading, and market."
+    },
+    "ko": {
+      "name": "금융",
+      "description": "금융 관련 용어집으로, 투자, 거래, 시장 등 관련 용어 번역을 포함합니다."
     }
   }
 }

@@ -24,6 +24,10 @@
     "ja": {
       "name": "Twitter",
       "description": "Twitter 中国語の用語集です。著名人やソーシャルメディアプラットフォームに関する用語の中国語訳を収録しています。"
+    },
+    "ko": {
+      "name": "X(Twitter)",
+      "description": "유명인, 소셜 미디어 플랫폼 등 X(Twitter) 관련 용어 번역을 포함한 용어집입니다."
     }
   },
   "matches": [
